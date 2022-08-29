@@ -1,0 +1,27 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",GAZI TV HD 
+http://103.99.249.138:81/play/a012
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE MATCH LINK 1 " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",LIVE MATCH LINK 1 
+https://3uog.short.gy/BJ_SPECIAL_LIVE_EVENTS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE MATCH LINK 2 " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",LIVE MATCH LINK 2 
+https://3uog.short.gy/Live_events.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV SPORTS HD ENGLISH (RED) " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",PTV SPORTS HD ENGLISH (RED) 
+http://31.172.87.51:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD ENGLISH " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",STAR SPORTS 1 HD ENGLISH 
+http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS 1 HD HINDI (RED) " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",STAR SPORTS 1 HD HINDI (RED) 
+http://31.172.87.51:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS TAMIL " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",STAR SPORTS TAMIL 
+http://31.172.87.51:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS ACTION " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",SUPER SPORTS ACTION 
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1410.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS ACTION (RED) " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",SUPER SPORTS ACTION (RED) 
+http://31.172.87.51:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS ACTION SERVER 2 " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",SUPER SPORTS ACTION SERVER 2 
+http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/774.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",SUPER SPORTS CRICKET 
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS CRICKET HD " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",SUPER SPORTS CRICKET HD 
+http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/769.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TELGU COMMENTRY " tvg-logo="" group-title="ASIA CUP LIVE CRICKET HD",TELGU COMMENTRY 
+http://89.187.179.108:8080/MaaGold-telu/index.m3u8?token=test
