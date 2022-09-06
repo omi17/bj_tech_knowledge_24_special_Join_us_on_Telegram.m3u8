@@ -24,5 +24,14 @@ http://live12p.akt.hotstar-cdn.net/hls/live/2024729/cricketasiacup2022/hin/15400
 http://humiptv.live:8080/live/13526319495_980/B4RtBbisKa/516.ts
 
 
+#EXTINF:-1 tvg-id="ENGLISH" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtecg",1080P TAMIL
+http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="ENGLISH" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtecg",1080P English
+http://divine.ddns.me:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8
+
 #EXTINF:-1 tvg-id="TAMIL" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtecg",1080P TAMIL
 http://31.172.87.51:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+
+
