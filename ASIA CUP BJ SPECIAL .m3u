@@ -1,0 +1,25 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Join us @bjtechknowledge2" tvg-logo="" group-title="Join us on Telegram App",Join us @bjtechknowledge2
+https://t.me/bjtechknowledge2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="टेलीग्राम पर हमसे जुड़ें। @bjtechknowledge2" tvg-logo="" group-title="ASIA CUP LIVE 2022",टेलीग्राम पर हमसे जुड़ें। @bjtechknowledge2
+https://t.me/bjtechknowledge2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI" tvg-logo="" group-title="ASIA CUP LIVE 2022",STAR SPORTS HD 1 HINDI
+http://bandookk.xyz:8000/asiacup/cricket/17522
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ASTRO CRICKET HD " tvg-logo="" group-title="ASIA CUP LIVE 2022",ASTRO CRICKET HD 
+http://bandookk.xyz:8000/asiacup/cricket/17528
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV SPORTS HD " tvg-logo="" group-title="ASIA CUP LIVE 2022",PTV SPORTS HD 
+http://bandookk.xyz:8000/asiacup/cricket/17534
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV SPORTS HD " tvg-logo="" group-title="ASIA CUP LIVE 2022",PTV SPORTS HD 
+http://31.172.87.50:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GAZI TV HD " tvg-logo="" group-title="ASIA CUP LIVE 2022",GAZI TV HD 
+http://bandookk.xyz:8000/asiacup/cricket/26398
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN SPORTS " tvg-logo="" group-title="ASIA CUP LIVE 2022",ATN SPORTS 
+http://31.172.87.50:2200/TR/atnhd-afg/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1 HINDI  source 2" tvg-logo="" group-title="ASIA CUP LIVE 2022",STAR SPORTS HD 1 HINDI  source 2
+http://bandookk.xyz:8000/asiacup/cricket/17520
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORTS VERITY 2 HD " tvg-logo="" group-title="ASIA CUP LIVE 2022",SUPER SPORTS VERITY 2 HD 
+http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SP HINDI" tvg-logo="" group-title="ASIA CUP LIVE 2022",STAR SP HINDI
+http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS TAMIL " tvg-logo="" group-title="ASIA CUP LIVE 2022",STAR SPORTS TAMIL 
+http://31.172.87.50:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
