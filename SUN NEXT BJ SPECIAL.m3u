@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
+#EXTINF:-1 tvg-id="20" group-title="" tvg-logo="",Gemini life
+https://rana-pk5.ml/api/star/play.m3u8?id=47990
+#EXTINF:-1 tvg-id="19" group-title="" tvg-logo="",Gemini music
+https://rana-pk5.ml/api/star/play.m3u8?id=47989
+#EXTINF:-1 tvg-id="18" group-title="" tvg-logo="",Gemini movie hd
+https://rana-pk5.ml/api/star/play.m3u8?id=47983
+#EXTINF:-1 tvg-id="17" group-title="" tvg-logo="",Gemini tv HD
+https://rana-pk5.ml/api/star/play.m3u8?id=47982
+#EXTINF:-1 tvg-id="16" group-title="" tvg-logo="",KTV
+https://rana-pk5.ml/api/star/play.m3u8?id=48014
+#EXTINF:-1 tvg-id="15" group-title="" tvg-logo="",Adithya tv
+https://rana-pk5.ml/api/star/play.m3u8?id=51220
+#EXTINF:-1 tvg-id="14" group-title="" tvg-logo="",Surya comedy
+https://rana-pk5.ml/api/star/play.m3u8?id=50997
+#EXTINF:-1 tvg-id="13" group-title="" tvg-logo="",Surya music
+https://rana-pk5.ml/api/star/play.m3u8?id=47951
+#EXTINF:-1 tvg-id="12" group-title="" tvg-logo="",Surya movie
+https://rana-pk5.ml/api/star/play.m3u8?id=47947
+#EXTINF:-1 tvg-id="11" group-title="" tvg-logo="",Surya HD
+https://rana-pk5.ml/api/star/play.m3u8?id=47949
+#EXTINF:-1 tvg-id="10" group-title="" tvg-logo="",Udaya FHD
+https://rana-pk5.ml/api/star/play.m3u8?id=51246
+#EXTINF:-1 tvg-id="09" group-title="" tvg-logo="",Udaya music
+https://rana-pk5.ml/api/star/play.m3u8?id=47848
+#EXTINF:-1 tvg-id="08" group-title="" tvg-logo="",Udaya movie
+https://rana-pk5.ml/api/star/play.m3u8?id=47844
+#EXTINF:-1 tvg-id="07" group-title="" tvg-logo="",Udaya comedy
+https://rana-pk5.ml/api/star/play.m3u8?id=47843
+#EXTINF:-1 tvg-id="06" group-title="" tvg-logo="",Udaya HD
+https://rana-pk5.ml/api/star/play.m3u8?id=47841
+#EXTINF:-1 tvg-id="05" group-title="" tvg-logo="",Sun Bangla
+https://rana-pk5.ml/api/star/play.m3u8?id=51163
+#EXTINF:-1 tvg-id="04" group-title="" tvg-logo="",Sun news
+https://rana-pk5.ml/api/star/play.m3u8?id=48022
+#EXTINF:-1 tvg-id="03" group-title="" tvg-logo="",Sun life
+https://rana-pk5.ml/api/star/play.m3u8?id=48021
+#EXTINF:-1 tvg-id="02" group-title="" tvg-logo="",Sun music
+https://rana-pk5.ml/api/star/play.m3u8?id=48013
+#EXTINF:-1 tvg-id="01" group-title="" tvg-logo="",Sun tv
+https://rana-pk5.ml/api/star/play.m3u8?id=48012
