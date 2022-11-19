@@ -1,31 +1,23 @@
 
 
 #EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",1080P Hindi
-http://live12p.akt.hotstar-cdn.net/hls/live/2024729/cricketasiacup2022/hin/1540017141/15mindvrm01c45c8c81ad7e4e0789ad10a7a3562c9809september2022/master_6.m3u8|User-Agent=Hotstar;in.startv.hotstar/12.4.5.1162 (Android/8.1.0)&cookie=hdntl=exp=1662733485~acl=*cricketasiacup2022*~id=9668e4954eb76de02e65e561768c01af~data=ip%3d5qTeIjD5IOSgnusc1fdXZeBpn0TbmOHMieY24BdPul1Az5bNooW8GhX-userid%3dU2Y7x5rZ9bQ5q28PGGkipJDE01olduj51u0B2YKIQxSQ-did%3daovgX0tOpurf9LFpUir7NvUCsn4wETgMR65rCOvpldpLZubKLDyeME2-cc%3din-~hmac=6a22a58d15a844f11c24790cd580fe244fcc34ab036face268bb4b69cc336e93
+http://live12p.akt.hotstar-cdn.net/hls/live/2024729/icct20wc2022/hin/1540019103/15mindvrm03e3e8708a41ef414db774dbfc852946f306november2022/master_6.m3u8|User-Agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/9)-M&cookie=hdntl=exp=1667791697~acl=*icct20wc2022*~id=2bb9b0c3e968834d81bf2129a2441ea2~data=ip%3dKATWLMnzi2YFo6KONX3q5RG1ce2zCG3TjH7k9R8xJmlny90asRSkbUl-userid%3dv0110VYiWEQZnti7OUx2I4pJSze9KTAObG5Ajh1Wo14l-did%3dvUDB13ARuQ52ZrGhjNf2vPaUQ4n1XBPbnlfuolGgxm6yRR3iwWwt88w-cc%3din-~hmac=cbf3373fec9e43379a0123aec08d676e75013c03fb8f1656eb12209a672f6c23
 
 
-#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",1080p ENGLISH
-http://45.58.164.26:80/select-123456/tracks-v1a1/mono.m3u8?token=779f329ea214ded7944a67ebcb2b71f252c394a2-51IYCAU6J198HZGL-1662495228-1662484428
+#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",720p HINDI
+http://live12p.akt.hotstar-cdn.net/hls/live/2024729/icct20wc2022/hin/1540019103/15mindvrm03e3e8708a41ef414db774dbfc852946f306november2022/master_5.m3u8|User-Agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/9)-M&cookie=hdntl=exp=1667791697~acl=*icct20wc2022*~id=2bb9b0c3e968834d81bf2129a2441ea2~data=ip%3dKATWLMnzi2YFo6KONX3q5RG1ce2zCG3TjH7k9R8xJmlny90asRSkbUl-userid%3dv0110VYiWEQZnti7OUx2I4pJSze9KTAObG5Ajh1Wo14l-did%3dvUDB13ARuQ52ZrGhjNf2vPaUQ4n1XBPbnlfuolGgxm6yRR3iwWwt88w-cc%3din-~hmac=cbf3373fec9e43379a0123aec08d676e75013c03fb8f1656eb12209a672f6c23
 
-
-#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",1080p ENGLISH PTV SPORTS
-http://31.172.87.50:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-
-
-
-#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",1080P Hindi
-http://live12p.akt.hotstar-cdn.net/hls/live/2024729/cricketasiacup2022/hin/1540017141/15mindvrm01c45c8c81ad7e4e0789ad10a7a3562c9809september2022/master_6.m3u8|User-Agent=Hotstar;in.startv.hotstar/12.4.5.1162 (Android/8.1.0)&cookie=hdntl=exp=1662733485~acl=*cricketasiacup2022*~id=9668e4954eb76de02e65e561768c01af~data=ip%3d5qTeIjD5IOSgnusc1fdXZeBpn0TbmOHMieY24BdPul1Az5bNooW8GhX-userid%3dU2Y7x5rZ9bQ5q28PGGkipJDE01olduj51u0B2YKIQxSQ-did%3daovgX0tOpurf9LFpUir7NvUCsn4wETgMR65rCOvpldpLZubKLDyeME2-cc%3din-~hmac=6a22a58d15a844f11c24790cd580fe244fcc34ab036face268bb4b69cc336e93
-
-
-
-#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",720P Hindi
-http://live12p.akt.hotstar-cdn.net/hls/live/2024729/cricketasiacup2022/hin/1540017141/15mindvrm01c45c8c81ad7e4e0789ad10a7a3562c9809september2022/master_6.m3u8|User-Agent=Hotstar;in.startv.hotstar/12.4.5.1162 (Android/8.1.0)&cookie=hdntl=exp=1662733485~acl=*cricketasiacup2022*~id=9668e4954eb76de02e65e561768c01af~data=ip%3d5qTeIjD5IOSgnusc1fdXZeBpn0TbmOHMieY24BdPul1Az5bNooW8GhX-userid%3dU2Y7x5rZ9bQ5q28PGGkipJDE01olduj51u0B2YKIQxSQ-did%3daovgX0tOpurf9LFpUir7NvUCsn4wETgMR65rCOvpldpLZubKLDyeME2-cc%3din-~hmac=6a22a58d15a844f11c24790cd580fe244fcc34ab036face268bb4b69cc336e93
-
-
-#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",480P Hindi
-http://live12p.akt.hotstar-cdn.net/hls/live/2024729/cricketasiacup2022/hin/1540017141/15mindvrm01c45c8c81ad7e4e0789ad10a7a3562c9809september2022/master_6.m3u8|User-Agent=Hotstar;in.startv.hotstar/12.4.5.1162 (Android/8.1.0)&cookie=hdntl=exp=1662733485~acl=*cricketasiacup2022*~id=9668e4954eb76de02e65e561768c01af~data=ip%3d5qTeIjD5IOSgnusc1fdXZeBpn0TbmOHMieY24BdPul1Az5bNooW8GhX-userid%3dU2Y7x5rZ9bQ5q28PGGkipJDE01olduj51u0B2YKIQxSQ-did%3daovgX0tOpurf9LFpUir7NvUCsn4wETgMR65rCOvpldpLZubKLDyeME2-cc%3din-~hmac=6a22a58d15a844f11c24790cd580fe244fcc34ab036face268bb4b69cc336e93
+#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",480p HINDI
+http://live12p.akt.hotstar-cdn.net/hls/live/2024729/icct20wc2022/hin/1540019103/15mindvrm03e3e8708a41ef414db774dbfc852946f306november2022/master_4.m3u8|User-Agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/9)-M&cookie=hdntl=exp=1667791697~acl=*icct20wc2022*~id=2bb9b0c3e968834d81bf2129a2441ea2~data=ip%3dKATWLMnzi2YFo6KONX3q5RG1ce2zCG3TjH7k9R8xJmlny90asRSkbUl-userid%3dv0110VYiWEQZnti7OUx2I4pJSze9KTAObG5Ajh1Wo14l-did%3dvUDB13ARuQ52ZrGhjNf2vPaUQ4n1XBPbnlfuolGgxm6yRR3iwWwt88w-cc%3din-~hmac=cbf3373fec9e43379a0123aec08d676e75013c03fb8f1656eb12209a672f6c23
 
 
 
 #EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",360P Hindi
-http://live12p.akt.hotstar-cdn.net/hls/live/2024729/cricketasiacup2022/hin/1540017141/15mindvrm01c45c8c81ad7e4e0789ad10a7a3562c9809september2022/master_6.m3u8|User-Agent=Hotstar;in.startv.hotstar/12.4.5.1162 (Android/8.1.0)&cookie=hdntl=exp=1662733485~acl=*cricketasiacup2022*~id=9668e4954eb76de02e65e561768c01af~data=ip%3d5qTeIjD5IOSgnusc1fdXZeBpn0TbmOHMieY24BdPul1Az5bNooW8GhX-userid%3dU2Y7x5rZ9bQ5q28PGGkipJDE01olduj51u0B2YKIQxSQ-did%3daovgX0tOpurf9LFpUir7NvUCsn4wETgMR65rCOvpldpLZubKLDyeME2-cc%3din-~hmac=6a22a58d15a844f11c24790cd580fe244fcc34ab036face268bb4b69cc336e93
+http://live12p.akt.hotstar-cdn.net/hls/live/2024729/icct20wc2022/hin/1540019103/15mindvrm03e3e8708a41ef414db774dbfc852946f306november2022/master_3.m3u8|User-Agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/9)-M&cookie=hdntl=exp=1667791697~acl=*icct20wc2022*~id=2bb9b0c3e968834d81bf2129a2441ea2~data=ip%3dKATWLMnzi2YFo6KONX3q5RG1ce2zCG3TjH7k9R8xJmlny90asRSkbUl-userid%3dv0110VYiWEQZnti7OUx2I4pJSze9KTAObG5Ajh1Wo14l-did%3dvUDB13ARuQ52ZrGhjNf2vPaUQ4n1XBPbnlfuolGgxm6yRR3iwWwt88w-cc%3din-~hmac=cbf3373fec9e43379a0123aec08d676e75013c03fb8f1656eb12209a672f6c23
+
+
+#EXTINF:-1 tvg-id="Hindi" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/328/1330328-h-d1379df96f77.jpg" group-title="Telegram @bjtech",180P Hindi
+http://live12p.akt.hotstar-cdn.net/hls/live/2024729/icct20wc2022/hin/1540019103/15mindvrm03e3e8708a41ef414db774dbfc852946f306november2022/master_2.m3u8|User-Agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/9)-M&cookie=hdntl=exp=1667791697~acl=*icct20wc2022*~id=2bb9b0c3e968834d81bf2129a2441ea2~data=ip%3dKATWLMnzi2YFo6KONX3q5RG1ce2zCG3TjH7k9R8xJmlny90asRSkbUl-userid%3dv0110VYiWEQZnti7OUx2I4pJSze9KTAObG5Ajh1Wo14l-did%3dvUDB13ARuQ52ZrGhjNf2vPaUQ4n1XBPbnlfuolGgxm6yRR3iwWwt88w-cc%3din-~hmac=cbf3373fec9e43379a0123aec08d676e75013c03fb8f1656eb12209a672f6c23
+
+
+
