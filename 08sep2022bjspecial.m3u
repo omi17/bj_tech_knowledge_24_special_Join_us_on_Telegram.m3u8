@@ -1,4 +1,5 @@
-logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id=logo": "http://sjpurcdnems02.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
 "name": "Sony MAX2", 
 "link": "https://jiolivestreaming.akamaized.net/bpk-tv/Sony_MAX2_MOB/WDVCatchup/index.mpd",
 "origin": "JioTV CH",
