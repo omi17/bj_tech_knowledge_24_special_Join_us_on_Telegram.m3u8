@@ -1,0 +1,9 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HINDI" tvg-logo="" group-title="IND 🆚 SRILANKA",HINDI
+https://t1.switchcast2.com:999/hls/starhindi.m3u8?md5=SBCvAKfZzLBJ28gwnuPQuw&expires=1673103614|referer=https://gocast2.com/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIVE LINK 1 " tvg-logo="" group-title="IND 🆚 SRILANKA",LIVE LINK 1 
+https://3uog.short.gy/LIVE_LINK-1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILLOW CRICKET HD " tvg-logo="" group-title="IND 🆚 SRILANKA",WILLOW CRICKET HD 
+https://11live03.akamaized.net/FTX2_WILLOW/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENGLISH" tvg-logo="" group-title="IND 🆚 SRILANKA",ENGLISH
+https://s6.capoplay.com:999/hls/star1in.m3u8?md5=aQsykdqiykh6kIBfJwLpjg&expires=1673103607|referer=https://gocast2.com/

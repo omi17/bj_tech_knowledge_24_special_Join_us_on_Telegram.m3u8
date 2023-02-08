@@ -1,0 +1,34 @@
+EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz" #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+"logo": "https://staticg.sportskeeda.com/editor/2023/01/cd6cc-16740991707584-1920.jpg",
+"name": "Tennis-1", 
+"link": "https://pubads.g.doubleclick.net/ssai/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZKo-aoh6IdkhF7Cmwm71WIjqMdh6ZD41g&usqp=CAU",
+"name": "BPL WORLDWIDE", 
+"link": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/I8PGfto9G6kR_s1LqY1le28uVf00aVESF89I9dRjBL6CUKcozyeLUGGfFvfQkWdpC7QQQ44N63St80N3n-n16Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "SA20_English - M1_JV_English_DIG_BTS", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/M1_JV_English_DIG_BTS/Fallback/hls/index.m3u8?hdnts=st=1674884122~exp=1674970522~acl=/*~hmac=caebb9692f640271461791a86d9548a0eb01ed0450bf8d303c3bd98b8986dab8",
+"origin": "",
+"referrer": "",
+userAgent": "", 
+"cookie": "",
+"drmScheme": "widevine", 
+"drmLicense": "DRM" 
+}, {
+"logo": "https://static.wikia.nocookie.net/logopedia/images/8/8e/JioCinema.png/revision/latest?cb=20200422113209",
+"name": "SA20_Hindi - M1_JV_Hindi_DIG_BTS", 
+"link": "https://jiolivestreaming.akamaized.net/bpk-tv/M1_JV_Hindi_DIG_BTS/Fallback/hls/index.m3u8?
