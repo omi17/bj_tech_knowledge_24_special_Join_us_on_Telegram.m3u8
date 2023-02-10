@@ -1,0 +1,104 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/125944/1000x1000_SunMarathi_125944_e3509fd3-b30c-436d-ba5c-343e7bae433f.png" group-title="SunNxt", (ONLINE) Sun Marathi
+https://imsom.000webhostapp.com/sunnxt.php?id=125944
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_SunTVHD_14020_8ce81e5d-4b5b-49d9-9a12-dde5dd739bc9.png" group-title="SunNxt", (ONLINE) Sun TV HD
+https://imsom.000webhostapp.com/sunnxt.php?id=14020
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_SunMusicHD_9013_06157c4a-ca06-4f5c-8492-bf8a49e30d7d.png" group-title="SunNxt", (ONLINE) Sun Music HD
+https://imsom.000webhostapp.com/sunnxt.php?id=9013
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_7f0072c1-9c14-4566-a81d-6c795df2124e.png" group-title="SunNxt", (ONLINE) Sun News
+https://imsom.000webhostapp.com/sunnxt.php?id=38926
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/75117/1000x1000_SunBangla_75117_9ed56450-7740-4169-bef1-1b3d4cfbf692.png" group-title="SunNxt", (ONLINE) Sun Bangla
+https://imsom.000webhostapp.com/sunnxt.php?id=75117
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_SunTV_9016_6dd974ad-80a7-4ec3-963d-56924cabaa01.png" group-title="SunNxt", (ONLINE) Sun TV
+https://imsom.000webhostapp.com/sunnxt.php?id=9016
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_4b759496-79e6-4914-8c0e-976497182ac3.png" group-title="SunNxt", (ONLINE) Sun Life
+https://imsom.000webhostapp.com/sunnxt.php?id=26569
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_SunMusic_9025_555eed5e-5937-4bd5-9dfd-5251e0fe5dc7.png" group-title="SunNxt", (ONLINE) Sun Music
+https://imsom.000webhostapp.com/sunnxt.php?id=9025
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" group-title="SunNxt", (ONLINE) Gemini TV HD
+https://imsom.000webhostapp.com/sunnxt.php?id=14019
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" group-title="SunNxt", (ONLINE) Gemini Movies HD
+https://imsom.000webhostapp.com/sunnxt.php?id=26570
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" group-title="SunNxt", (ONLINE) Gemini Music HD
+https://imsom.000webhostapp.com/sunnxt.php?id=26568
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_GeminiMusic_9026_cf390d31-6181-4cb8-9574-1f49605f9409.png" group-title="SunNxt", (ONLINE) Gemini Music
+https://imsom.000webhostapp.com/sunnxt.php?id=9026
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_GeminiMovies_9015_323333f4-2488-476b-92ff-d340e21e40ea.png" group-title="SunNxt", (ONLINE) Gemini Movies
+https://imsom.000webhostapp.com/sunnxt.php?id=9015
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_GeminiLife_26572_797a9d8c-2ec2-4af8-b3dc-3b10c16c060d.png" group-title="SunNxt", (ONLINE) Gemini Life
+https://imsom.000webhostapp.com/sunnxt.php?id=26572
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png" group-title="SunNxt", (ONLINE) Gemini Comedy
+https://imsom.000webhostapp.com/sunnxt.php?id=9027
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_GeminiTV_9017_452bf6c8-da7e-4cbc-a2fa-a83e55719dc3.png" group-title="SunNxt", (ONLINE) Gemini TV
+https://imsom.000webhostapp.com/sunnxt.php?id=9017
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_UdayaTVHD_30846_25b8347b-f9bf-4d83-89d8-54f0a06b6dce.png" group-title="SunNxt", (ONLINE) Udaya TV HD
+https://imsom.000webhostapp.com/sunnxt.php?id=30846
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_UdayaTV_9029_5e5f2aa3-3db2-4daf-b2a1-4ee82b1cf663.png" group-title="SunNxt", (ONLINE) Udaya TV
+https://imsom.000webhostapp.com/sunnxt.php?id=9029
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_UdayaMusic_9022_c88f50d2-6f39-4a9b-a177-d28f8ec6c105.png" group-title="SunNxt", (ONLINE) Udaya Music
+https://imsom.000webhostapp.com/sunnxt.php?id=9022
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_UdayaMovies_26576_42386a71-5ce5-4577-986e-6bd85d38cc80.png" group-title="SunNxt", (ONLINE) Udaya Movies
+https://imsom.000webhostapp.com/sunnxt.php?id=26576
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_UdayaComedy_9014_ed70cf76-db8f-4bdc-ae69-d1ba4ba0a9d3.png" group-title="SunNxt", (ONLINE) Udaya Comedy
+https://imsom.000webhostapp.com/sunnxt.php?id=9014
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_SuryaTVHD_26574_01dc275d-8c77-418d-9c90-bc889ff5955d.png" group-title="SunNxt", (ONLINE) Surya TV HD
+https://imsom.000webhostapp.com/sunnxt.php?id=26574
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_SuryaTV_9018_bf894979-da08-4669-b212-d2e2bcd9d230.png" group-title="SunNxt", (ONLINE) Surya TV
+https://imsom.000webhostapp.com/sunnxt.php?id=9018
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_SuryaComedy_30835_5a19c085-3a9a-4c70-bede-4910dc49f372.png" group-title="SunNxt", (ONLINE) Surya Comedy
+https://imsom.000webhostapp.com/sunnxt.php?id=30835
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_SuryaMusic_26575_a804f3fd-2ce7-4324-aa2e-8228f9dc9a3a.png" group-title="SunNxt", (ONLINE) Surya Music
+https://imsom.000webhostapp.com/sunnxt.php?id=26575
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_SuryaMovies_9019_6dae8158-5e95-469f-b597-465c51bd2cc0.png" group-title="SunNxt", (ONLINE) Surya Movies
+https://imsom.000webhostapp.com/sunnxt.php?id=9019
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_KTVHD_26566_adb8dbe5-9de3-4284-981d-fcbaa9638f2a.png" group-title="SunNxt", (ONLINE) KTV HD
+https://imsom.000webhostapp.com/sunnxt.php?id=26566
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_KTV_32138_0f1b941c-f9c9-4931-b13c-4deaaabbf843.png" group-title="SunNxt", (ONLINE) KTV
+https://imsom.000webhostapp.com/sunnxt.php?id=32138
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_ChintuTV_26577_d9109d1a-0110-4c8f-8bc2-5dba4a758167.png" group-title="SunNxt", (ONLINE) Chintu TV
+https://imsom.000webhostapp.com/sunnxt.php?id=26577
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_KushiTV_26571_ef287cac-6e6f-4cc7-96e1-b92160acb927.png" group-title="SunNxt", (ONLINE) Kushi TV
+https://imsom.000webhostapp.com/sunnxt.php?id=26571
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26573/1000x1000_KochuTV_26573_9481a434-18ca-4780-a469-a205154eab64.png" group-title="SunNxt", (ONLINE) Kochu TV
+https://imsom.000webhostapp.com/sunnxt.php?id=26573
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_ChuttiTV_26567_9e566862-4ddb-4fea-90b6-1710aa5116fe.png" group-title="SunNxt", (ONLINE) Chutti TV
+https://imsom.000webhostapp.com/sunnxt.php?id=26567
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" group-title="SunNxt", (ONLINE) Adithya TV
+https://imsom.000webhostapp.com/sunnxt.php?id=9023
+
