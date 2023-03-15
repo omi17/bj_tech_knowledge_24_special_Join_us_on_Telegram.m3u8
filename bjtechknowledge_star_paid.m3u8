@@ -1,0 +1,103 @@
+//THIS IS EPG TELEGUIDE LINK
+#EXTM3U x-tvg-url="https://3o77.short.gy/tsepg.xml.gz" refresh="1440"
+
+//THIS IS SAMPLE CHANNEL
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=bbbc36a45c7a5ec4878e04c437853b09&key=7d346e3d0925cf6833b12961cd74ca80
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Bharat HD" group-title="TataPlay" group-logo="https://telegra.ph/file/3ba4547bcaaec3aaa4921.png" tvg-logo="https://telegra.ph/file/d8dead0df811c0fc93717.png",Star Bharat HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=1cbe293fdc385dac8c0d502b04f338e4&key=0624cd2e8023aec5dab4a82b2020aaf7
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Plus " group-title="TataPlay" group-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/STAR%20Plus%20HD.png" tvg-logo="https://telegra.ph/file/d8dead0df811c0fc93717.png",Star Plus HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=7ede0d7275045396bd3bb6540701cbf5&key=e9b18754a199d62187430087bc48c5fa
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Pravah HD " group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Pravah%20HD.png",Star Pravah HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=f201d49f317b4b09918f89f5618c7fe9&key=0be2aa8395067137faba42523076a3cb
+#EXTINF:-1 tvg-id="ts244" tvg-name="STAR SPORTS HINDI" group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%201%20Hindi%20HD.png",Star Sports Hindi
+https://delta4tatasky.akamaized.net/out/i/6527246.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=ebe2bf81630c4f55b13ce2d5de501a7e&key=00673790ff976ce11bd2d3701aa8479b
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Sports Select 1 HD" group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%20Select%201%20HD.png",Star Sports Select 1 HD
+https://delta14tatasky.akamaized.net/out/i/4779611.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=72128b54ec9b44f4b2de808123155804&key=447524af6faa0e9b56d808a9f8b958db
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Sports Select 2 HD" group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%20Select%202%20HD.png",Star Sports Select 2 HD
+https://delta43tatasky.akamaized.net/out/i/18038.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=ef24fd519715482b8b8f44242bc8d720&key=8ab7ed4e8edb36d0c61f38877a1e0001
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Sports HD 2 " group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%202%20HD.png", Star Spors 2 HD
+https://delta13tatasky.akamaized.net/out/i/2285199.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=498f34f9a1fe4ae3ab19903090675a1b&key=ce4f9c8b4e31904857089c37858c2c2a
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Sports HD 1 " group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Sports%201%20HD.png", Star Sports HD 1
+https://delta14tatasky.akamaized.net/out/i/7136433.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=2f27d053d83d5284859cdd8b26bb17e2&key=7cbeb33990380306b1f5b9a0fb4f6fd0
+#EXTINF:-1 tvg-id="ts244" tvg-name=" Disney Hindi" group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Disney.png",Disney Hindi
+https://72n5.short.gy/Disney_Channel_BJ-TECH1_LIVE.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=ee4cd9845e124e188ccd0468d9400f78&key=f109e5b3d10644e260234aba543830dd
+#EXTINF:-1 tvg-id="ts244" tvg-name=" Super Hungama" group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Super-Hungama-Transparent.png", Super Hungama
+https://delta34tatasky.akamaized.net/out/i/353.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=4b3d4da8902f4f7cae4c774fbdf42029&key=f3ab3d0f2bcf4afc099342495dd58bd5
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Gold HD " group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/STAR%20GOLD%20HD.png.png", Star Gold HD
+https://delta10tatasky.akamaized.net/out/i/6298912.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=&key=
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Sports HD 1 " group-title="TataPlay" group-logo="" tvg-logo="", Hungama
+http://146.190.166.221/madstream/hungama/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=f506b7e7efb1504ea2b72dfcbc9c810e&key=8f2e1ef36a198139d7a640a8732449fe
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Gold HD " group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/National%20Geographic%20HD.png", National Geographic HD
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=27f0719986765b7eba6c470d3e94080e&key=279a5780cbebc490ff08282395cb944f
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Gold HD " group-title="TataPlay" group-logo="" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors%20HD.png", Colors HD
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd

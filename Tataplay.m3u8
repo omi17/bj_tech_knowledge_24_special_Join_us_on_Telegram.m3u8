@@ -1,0 +1,11 @@
+//THIS IS EPG TELEGUIDE LINK
+#EXTM3U x-tvg-url="https://3o77.short.gy/tsepg.xml.gz" refresh="1440"
+
+//THIS IS SAMPLE CHANNEL
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rrjiotvweb.azurewebsites.net/web/results.php?keyid=bbbc36a45c7a5ec4878e04c437853b09&key=7d346e3d0925cf6833b12961cd74ca80
+#EXTINF:-1 tvg-id="ts244" tvg-name="Star Bharat HD" group-title="TataPlay" group-logo="https://telegra.ph/file/3ba4547bcaaec3aaa4921.png" tvg-logo="https://telegra.ph/file/d8dead0df811c0fc93717.png",Star Bharat HD
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
